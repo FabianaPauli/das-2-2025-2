@@ -1,4 +1,4 @@
-# das-2-2025-2
+# Materia DAS 2 2025-2
 
 ## Aula 31/07/25 – Transformação Digital na Nuvem com AWS
 - **Motivação para Nuvem**: lidar com picos de acesso e substituir infra tradicional.  
