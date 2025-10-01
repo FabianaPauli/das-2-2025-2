@@ -68,10 +68,6 @@ Esta aula foi uma demonstração prática de como usar o **Amazon S3** para gere
 
 ---
 
-## Aula 03/09/25 – 
-
----
-
 ## Aula 10/09/25 – Ataques e Segurança
 
 ### Ataque de Phishing Bancário
